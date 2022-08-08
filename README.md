@@ -9,4 +9,4 @@
  
  cd TOBI-ON
  
- python Rimi.py
+ python 'Rimi (1).py'
