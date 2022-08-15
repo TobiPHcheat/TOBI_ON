@@ -35,6 +35,6 @@
  
  git clone https://github.com/TobiPHcheat/TOBI_ON.git
  
- cd TOBI-ON
+ cd 'TOBI_ON'
  
  python 'Rimi (1).py'
