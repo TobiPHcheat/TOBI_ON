@@ -33,8 +33,8 @@
 
 
  
- git clone https://github.com/TobiPHcheat/TOBI_ON.git
+ ➢➢➢ git clone https://github.com/TobiPHcheat/TOBI_ON.git
  
- cd 'TOBI_ON'
+ ➢➢➢ cd 'TOBI_ON'
  
- python 'Rimi (1).py'
+ ➢➢➢ python 'Rimi (1).py'
